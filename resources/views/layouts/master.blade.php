@@ -7,24 +7,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-
+  <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">  
   <link href="{{ asset('css/style.css') }}" rel="stylesheet">
   <link href="{{ asset('css/variables.css') }}" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.min.js"></script>
+ 
+
+  <script src="{{ asset('js/popper.min.js') }}"></script>
+  <script src="{{ asset('js/bootstrap.min.js') }}"></script>
+  
 
   <!-- Include jQuery -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="{{ asset('js/jquery-3.6.0.min.js') }}"></script>
 
 <!-- Include Owl Carousel CSS and JS files -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/assets/owl.carousel.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/assets/owl.theme.default.min.css">
-<script src="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/owl.carousel.min.js"></script>
+<link href="{{ asset('css/owl.carousel.min.css') }}" rel="stylesheet">
+<link href="{{ asset('css/owl.theme.default.min.css') }}" rel="stylesheet">
+<script src="{{ asset('js/owl.carousel.min.js') }}"></script>
+
+<link rel="icon" href="{{ asset('/img/logo1.png') }}" type="image/x-icon"  >
 
 
-  <title>club</title>
+
+  <title>CDC</title>
 </head>
 
 <body>
@@ -78,7 +82,8 @@ element.style {
     <div class="container d-flex justify-content-center justify-content-md-between">
       <div class="contact-info d-flex align-items-center">
         <i class="bi bi-envelope d-flex align-items-center"><a
-            href="mailto:contact@example.com">inf@diu-bd.net</a></i>
+            href="mailto:contact@example.com">ahsan@diu.ac
+          </a></i>
         <i class="bi bi-phone d-flex align-items-center ms-4"><span>+8801302690340</span></i>
       </div>
 
@@ -155,7 +160,8 @@ element.style {
               <br>
               <strong>Phone:</strong> +8801302690340<br><span style="padding-left: 52px">+8801939851064</span> <br>
 
-              <strong>Email:</strong> inf@diu-bd.net<br>
+              <strong>Email:</strong> ahsan@diu.ac
+              <br>
             </p>
           </div>
 

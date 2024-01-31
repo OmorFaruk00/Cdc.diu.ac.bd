@@ -20,7 +20,7 @@
               <a href="#" class="stretched-link">
                 {{-- <h3>Nesciunt Mete</h3> --}}
               </a>
-              <p >To help undergraduate, graduate students well-informed about their future working lives and develops their skills to  translate these effectively into appropriate decisions and actions.</p>
+              <p >To help undergraduate, graduate students well-informed about their future working lives and develops their skills to  translate these effectively into appropriate decisions and actions</p>
             </div>
           </div>
         </div><!-- End Service Item -->
@@ -36,7 +36,7 @@
               </div>
               <a href="#" class="stretched-link">
               </a>
-              <p>To maintain and develop links with the range of organizaiton providing appropriate opportunities for graduates, including further internship.</p>
+              <p>To maintain and develop links with the range of organizaiton providing appropriate opportunities for graduates, including further internship</p>
             </div>
           </div>
         </div><!-- End Service Item -->
@@ -52,7 +52,7 @@
               </div>
               <a href="#" class="stretched-link">
               </a>
-              <p>To introduce students with different sectors and jobs fields all arouns the globe.</p>
+              <p>To introduce students with different sectors and jobs fields all arouns the globe</p>
             </div>
           </div>
         </div><!-- End Service Item -->

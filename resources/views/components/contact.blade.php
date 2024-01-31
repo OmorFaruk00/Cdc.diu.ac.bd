@@ -15,7 +15,8 @@
     
                     <h6><strong>PHONE:</strong> 01302690340</h6>
                     {{-- <h5>01302690340</h5> --}}
-                    <h6><strong>EMAIL:</strong>  inf@diu-bd.net</h6>
+                    <h6><strong>EMAIL:</strong>  ahsan@diu.ac
+                    </h6>
                     <h5></h5>
                     <h6><strong>LOCATION:</strong> Satarkul, Badda, Dhaka-1212, Bangladesh.</h6>
                     {{-- <h5> Satarkul, Badda, Dhaka-1212, Bangladesh. <i class="fas fa-user" aria-hidden="true"></i></h5> --}}
